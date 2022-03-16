@@ -223,6 +223,12 @@ component author
   line-height: 24px;
 }
 
+.c-article__date {
+  font-size: 16px;
+  margin-bottom: 0;
+  line-height: 24px;
+}
+
 /* Large devices (landscape tablets, desktops, 992px and up) */
 
 @media (min-width: 992px) {
@@ -243,6 +249,12 @@ component article
   padding: 24px 24px 0;
 }
 
+.c-blockquote {
+  color: #00e6a1;
+  font-size: 24px;
+  padding: 24px;
+  background: #00b37d;
+}
 /* Medium devices (tablets, 768px and up) */
 
 @media (min-width: 768px) {
